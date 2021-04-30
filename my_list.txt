@@ -1,0 +1,5 @@
+"Warriors"
+"Timberwolves"
+"Rockets"
+"Wizards"
+"Sixers"
